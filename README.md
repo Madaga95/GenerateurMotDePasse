@@ -1,6 +1,6 @@
 # GenerateurMotDePasse
 
-On demande d'abord à l'utilisateur la loungueur du mot de passe qu'on a générer. 
+On demande d'abord à l'utilisateur la loungueur du mot de passe qu'on souhaite générer. 
 
 Ensuite l'utilisateur devra choisir entre cette liste :
 1 - Uniquement des caractères en minuscule
