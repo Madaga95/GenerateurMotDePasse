@@ -6,7 +6,7 @@ Ensuite l'utilisateur devra choisir entre cette liste :
 
 1 - Uniquement des caractères en minuscule 
 
-2 - Des caractère minuscules et majuscules 
+2 - Des caractères minuscules et majuscules 
 
 3 - Des caractères et des chiffres 
 
